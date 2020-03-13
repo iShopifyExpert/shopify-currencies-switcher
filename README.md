@@ -1,0 +1,1 @@
+# shopify-currencies-switcher
